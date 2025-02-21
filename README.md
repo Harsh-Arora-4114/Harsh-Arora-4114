@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Arnav;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Harsh+Arora;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Qehh3yNezQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_sensei_official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavdeshwal66@gmail.com) 
